@@ -40,3 +40,11 @@ https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Monokai-Themes/
 Horizon
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Horizon-Themes/
+
+Ayu
+
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ayu-Themes/
+
+Dracula
+
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/
