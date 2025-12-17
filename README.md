@@ -107,11 +107,11 @@ https://addons.mozilla.org/sv-SE/firefox/addon/apprentice-theme/
 
 Zenburn
 
-https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/
+https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/
 
 Squirrelsong
 
-https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/
+https://addons.mozilla.org/sv-SE/firefox/addon/squirrelsong-theme/
 
 Birds of Paradise
 
