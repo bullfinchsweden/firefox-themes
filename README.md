@@ -104,11 +104,3 @@ https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/
 Zenburn
 
 https://addons.mozilla.org/sv-SE/firefox/addon/zenburn-theme/
-
-Squirrelsong
-
-https://addons.mozilla.org/sv-SE/firefox/addon/squirrelsong-theme/
-
-Birds of Paradise
-
-https://addons.mozilla.org/sv-SE/firefox/addon/birds-of-paradise-dark-theme/
