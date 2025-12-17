@@ -1,5 +1,5 @@
 # Firefox Browser Themes
-All the files for my Firefox browser themes.
+All the files for my Firefox browser themes. Please be aware that these themes do not work well with the UI in Zen browser.
 
 Profile
 
