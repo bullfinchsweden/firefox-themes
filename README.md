@@ -1,6 +1,10 @@
 # Firefox Browser Themes
 All the files for my Firefox browser themes.
 
+Profile
+
+https://addons.mozilla.org/sv-SE/firefox/user/18694308/
+
 Everforest
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/
