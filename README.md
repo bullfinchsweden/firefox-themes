@@ -48,3 +48,7 @@ https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ayu-Themes/
 Dracula
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/
+
+Rouge
+
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/
