@@ -60,3 +60,87 @@ https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/
 Rouge
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/
+
+Tokyo Night
+
+https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/
+
+One Dark Pro
+
+https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/
+
+Iceberg
+
+https://addons.mozilla.org/sv-SE/firefox/addon/iceberg-dark-theme-firefox/
+
+Eldritch
+
+https://addons.mozilla.org/sv-SE/firefox/addon/eldritch-theme/
+
+Palenight
+
+https://addons.mozilla.org/sv-SE/firefox/addon/palenight-dark-theme-firefox/
+
+Night Owl
+
+https://addons.mozilla.org/sv-SE/firefox/addon/night-owl-dark-theme/
+
+SeaShells
+
+https://addons.mozilla.org/sv-SE/firefox/addon/seashells-dark-theme/
+
+Everblush
+
+https://addons.mozilla.org/sv-SE/firefox/addon/everblush-dark-theme/
+
+Spaceduck
+
+https://addons.mozilla.org/sv-SE/firefox/addon/spaceduck-dark-theme/
+
+Midnight City
+
+https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/
+
+Velvet Mango
+
+https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/
+
+Calamity
+
+https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/
+
+Paraíso
+
+https://addons.mozilla.org/sv-SE/firefox/addon/paraiso-dark-theme/
+
+Apprentice
+
+https://addons.mozilla.org/sv-SE/firefox/addon/apprentice-theme/
+
+Bluloco
+
+https://addons.mozilla.org/sv-SE/firefox/addon/bluloco-dark-theme/
+
+SLate
+
+https://addons.mozilla.org/sv-SE/firefox/addon/slate-dark-theme/
+
+Cobalt2
+
+https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/
+
+Gotham
+
+https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/
+
+Zenburn
+
+https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/
+
+Squirrelsong
+
+https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/
+
+Birds of Paradise
+
+https://addons.mozilla.org/sv-SE/firefox/addon/birds-of-paradise-dark-theme/
