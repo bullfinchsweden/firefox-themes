@@ -85,10 +85,6 @@ Night Owl
 
 https://addons.mozilla.org/sv-SE/firefox/addon/night-owl-dark-theme/
 
-SeaShells
-
-https://addons.mozilla.org/sv-SE/firefox/addon/seashells-dark-theme/
-
 Everblush
 
 https://addons.mozilla.org/sv-SE/firefox/addon/everblush-dark-theme/
@@ -105,33 +101,9 @@ Velvet Mango
 
 https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/
 
-Calamity
-
-https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/
-
-Paraíso
-
-https://addons.mozilla.org/sv-SE/firefox/addon/paraiso-dark-theme/
-
 Apprentice
 
 https://addons.mozilla.org/sv-SE/firefox/addon/apprentice-theme/
-
-Bluloco
-
-https://addons.mozilla.org/sv-SE/firefox/addon/bluloco-dark-theme/
-
-SLate
-
-https://addons.mozilla.org/sv-SE/firefox/addon/slate-dark-theme/
-
-Cobalt2
-
-https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/
-
-Gotham
-
-https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/
 
 Zenburn
 
