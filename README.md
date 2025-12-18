@@ -68,3 +68,7 @@ https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/
 Dark Themes
 
 https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dark-Themes/
+
+Brown Themes
+
+https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Brown-Themes/
