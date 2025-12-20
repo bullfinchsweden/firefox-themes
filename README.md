@@ -11,6 +11,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 [Catppuccin Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Catppuccin-Themes/)
 
+[Concepts by Bullfinch](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Concepts-by-Bullfinch/)
+
 [Dracula Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Dracula-Themes/)
 
 [Everforest Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/)
@@ -30,7 +32,5 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 [Rouge Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/)
 
 [Solarized Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Solarized-Themes/)
-
-[Valhalla Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/)
 
 [Witch Hazel Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Witch-Hazel-Themes/)
