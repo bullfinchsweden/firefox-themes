@@ -1,4 +1,4 @@
-# Firefox Themes
+# Firefox Themes 🎨
 All the files for my Firefox browser themes.
 
 Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍🏻
