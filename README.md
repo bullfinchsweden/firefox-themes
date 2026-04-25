@@ -67,9 +67,9 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Rosé Pine Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/)
 
-* [Sakura](https://addons.mozilla.org/sv-SE/firefox/addon/sakura-dark-theme-firefox/)
-
 * [Rouge Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Rouge-Themes/)
+
+* [Sakura](https://addons.mozilla.org/sv-SE/firefox/addon/sakura-dark-theme-firefox/)
 
 * [SeaShells](https://addons.mozilla.org/sv-SE/firefox/addon/seashells-dark-theme/)
 
