@@ -61,6 +61,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [One Dark Pro](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-theme-firefox/)
 
+* [Oxocarbon](https://addons.mozilla.org/sv-SE/firefox/addon/oxocarbon-dark-theme/)
+
 * [Palenight](https://addons.mozilla.org/sv-SE/firefox/addon/palenight-dark-theme-firefox/)
 
 * [Rosé Pine Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/)
