@@ -49,6 +49,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Kanagawa Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Kanagawa-Themes/)
 
+* [City Lights](https://addons.mozilla.org/sv-SE/firefox/addon/city-lights-dark-theme/)
+
 * [Matcha](https://addons.mozilla.org/sv-SE/firefox/addon/matcha-dark-theme/)
 
 * [Midnight City](https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/)
