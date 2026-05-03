@@ -85,7 +85,7 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Tokyo Night](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/)
 
-* [Valhalla Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Valhalla-Themes/)
+* [Valhalla Colorful](https://addons.mozilla.org/sv-SE/firefox/addon/valhalla-colorful-dark-theme/)
 
 * [Velvet Mango](https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/)
 
