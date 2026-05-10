@@ -23,6 +23,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Ciapre](https://addons.mozilla.org/sv-SE/firefox/addon/ciapre-dark-theme/)
 
+* [City Lights](https://addons.mozilla.org/sv-SE/firefox/addon/city-lights-dark-theme/)
+
 * [Cobalt2](https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/)
 
 * [Concepts by Bullfinch](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Concepts-by-Bullfinch/)
@@ -48,8 +50,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [Iceberg Dark](https://addons.mozilla.org/sv-SE/firefox/addon/iceberg-dark-theme-firefox/)
 
 * [Kanagawa Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Kanagawa-Themes/)
-
-* [City Lights](https://addons.mozilla.org/sv-SE/firefox/addon/city-lights-dark-theme/)
 
 * [Matcha](https://addons.mozilla.org/sv-SE/firefox/addon/matcha-dark-theme/)
 
