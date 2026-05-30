@@ -51,7 +51,7 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Everforest Dark Harder](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-dark-harder-theme/)
 
-* [Everforest Dark Medium](hhttps://addons.mozilla.org/sv-SE/firefox/addon/everforest-dark-medium-theme/)
+* [Everforest Dark Medium](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-dark-medium-theme/)
 
 * [Everforest Dark Soft](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-dark-soft-theme/)
 
