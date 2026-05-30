@@ -13,8 +13,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Birds of Paradise](https://addons.mozilla.org/sv-SE/firefox/addon/birds-of-paradise-dark-theme/)
 
-* [Bluloco Dark](https://addons.mozilla.org/sv-SE/firefox/addon/bluloco-dark-theme/)
-
 * [Calamity](https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/)
 
 * [Catppuccin Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Catppuccin-Themes/)
