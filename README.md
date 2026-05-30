@@ -35,8 +35,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Everforest Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Everforest-Themes/)
 
-* [Falcon](https://addons.mozilla.org/sv-SE/firefox/addon/falcon-theme/)
-
 * [Ghostty](https://addons.mozilla.org/sv-SE/firefox/addon/ghostty-theme/)
 
 * [Gotham](https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/)
@@ -62,8 +60,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [One Dark Pro Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/One-Dark-Pro-Themes/)
 
 * [Oxocarbon](https://addons.mozilla.org/sv-SE/firefox/addon/oxocarbon-dark-theme/)
-
-* [Palenight](https://addons.mozilla.org/sv-SE/firefox/addon/palenight-dark-theme-firefox/)
 
 * [Rosé Pine Themes](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Ros-Pine-Themes/)
 
