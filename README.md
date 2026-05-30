@@ -3,7 +3,7 @@ All the files for my Firefox browser themes.
 
 Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍🏻
 
-<img width="200" height="116" alt="Firefox" src="https://github.com/user-attachments/assets/0c749853-58a7-4e97-92cd-aaa6f558813c" /><br/>
+<img width="200" height="116" alt="Firefox" src="https://github.com/user-attachments/assets/fa32e001-e916-4133-9296-b5bd935343f1" /><br/>
 
 ![EverforestTheme](https://github.com/user-attachments/assets/27761f2a-8240-42cc-9823-f5dfff8e2e33)<br/>
 
