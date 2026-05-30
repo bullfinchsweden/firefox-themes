@@ -37,7 +37,7 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Creamy Coffee](https://addons.mozilla.org/sv-SE/firefox/addon/creamy-coffee-theme/)
 
-* [Crimson](hhttps://addons.mozilla.org/sv-SE/firefox/addon/crimson-theme/)
+* [Crimson](https://addons.mozilla.org/sv-SE/firefox/addon/crimson-theme/)
 
 * [Dracula](https://addons.mozilla.org/sv-SE/firefox/addon/dracula-theme-firefox/)
 
