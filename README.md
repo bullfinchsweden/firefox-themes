@@ -105,17 +105,11 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Oxocarbon](https://addons.mozilla.org/sv-SE/firefox/addon/oxocarbon-dark-theme/)
 
-* [Paraíso](https://addons.mozilla.org/sv-SE/firefox/addon/paraiso-dark-theme/)
-
 * [Rosé Pine](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-dark-theme/)
 
 * [Rosé Pine Dawn](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-dawn-light-theme/)
 
 * [Rosé Pine Moon](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-moon-theme/)
-
-* [Rouge](https://addons.mozilla.org/sv-SE/firefox/addon/rouge-dark-theme/)
-
-* [Rouge 2](https://addons.mozilla.org/sv-SE/firefox/addon/rouge-2-dark-theme/)
 
 * [Sakura](https://addons.mozilla.org/sv-SE/firefox/addon/sakura-dark-theme-firefox/)
 
