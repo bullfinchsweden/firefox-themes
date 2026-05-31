@@ -13,8 +13,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Ayu Mirage](https://addons.mozilla.org/sv-SE/firefox/addon/ayu-mirage-dark-theme/)
 
-* [Ayu Mirage Darker](https://addons.mozilla.org/sv-SE/firefox/addon/ayu-mirage-darker-theme/)
-
 * [Birds of Paradise](https://addons.mozilla.org/sv-SE/firefox/addon/birds-of-paradise-dark-theme/)
 
 * [Calamity](https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/)
