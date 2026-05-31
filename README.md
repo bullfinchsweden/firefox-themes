@@ -25,8 +25,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Chocolate](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
 
-* [Cobalt2](https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/)
-
 * [Creamy Coffee](https://addons.mozilla.org/sv-SE/firefox/addon/creamy-coffee-theme/)
 
 * [Dracula](https://addons.mozilla.org/sv-SE/firefox/addon/dracula-theme-firefox/)
