@@ -25,8 +25,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Chocolate](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
 
-* [City Lights](https://addons.mozilla.org/sv-SE/firefox/addon/city-lights-dark-theme/)
-
 * [Cobalt2](https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/)
 
 * [Creamy Coffee](https://addons.mozilla.org/sv-SE/firefox/addon/creamy-coffee-theme/)
