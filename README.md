@@ -13,8 +13,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Ayu Mirage](https://addons.mozilla.org/sv-SE/firefox/addon/ayu-mirage-dark-theme/)
 
-* [Birds of Paradise](https://addons.mozilla.org/sv-SE/firefox/addon/birds-of-paradise-dark-theme/)
-
 * [Calamity](https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/)
 
 * [Castlevania](https://addons.mozilla.org/sv-SE/firefox/addon/castlevania-dark-theme/)
@@ -27,15 +25,11 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Chocolate](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
 
-* [Ciapre](https://addons.mozilla.org/sv-SE/firefox/addon/ciapre-dark-theme/)
-
 * [City Lights](https://addons.mozilla.org/sv-SE/firefox/addon/city-lights-dark-theme/)
 
 * [Cobalt2](https://addons.mozilla.org/sv-SE/firefox/addon/cobalt2-theme/)
 
 * [Creamy Coffee](https://addons.mozilla.org/sv-SE/firefox/addon/creamy-coffee-theme/)
-
-* [Crimson](https://addons.mozilla.org/sv-SE/firefox/addon/crimson-theme/)
 
 * [Dracula](https://addons.mozilla.org/sv-SE/firefox/addon/dracula-theme-firefox/)
 
@@ -56,8 +50,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [Everforest Light Soft](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-light-soft-theme/)
 
 * [Evergreen](https://addons.mozilla.org/sv-SE/firefox/addon/evergreen-theme/)
-
-* [Everwinter](https://addons.mozilla.org/sv-SE/firefox/addon/everwinter-theme/)
 
 * [Ghostty](https://addons.mozilla.org/sv-SE/firefox/addon/ghostty-theme/)
 
@@ -131,13 +123,9 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [SeaShells](https://addons.mozilla.org/sv-SE/firefox/addon/seashells-dark-theme/)
 
-* [Slate](https://addons.mozilla.org/sv-SE/firefox/addon/slate-dark-theme/)
-
 * [Solarized Dark](https://addons.mozilla.org/sv-SE/firefox/addon/solarized-dark-theme-firefox/)
 
 * [Solarized Light](https://addons.mozilla.org/sv-SE/firefox/addon/solarized-light-theme/)
-
-* [Soul Deep](https://addons.mozilla.org/sv-SE/firefox/addon/soul-deep-theme/)
 
 * [Spaceduck](https://addons.mozilla.org/sv-SE/firefox/addon/spaceduck-dark-theme/)
 
@@ -150,8 +138,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [Valhalla Colorful](https://addons.mozilla.org/sv-SE/firefox/addon/valhalla-colorful-dark-theme/)
 
 * [Velvet Mango](https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/)
-
-* [Vitaale](https://addons.mozilla.org/sv-SE/firefox/addon/vitaale-dark-theme/)
 
 * [Witch Hazel](https://addons.mozilla.org/sv-SE/firefox/addon/witch-hazel-theme/)
 
