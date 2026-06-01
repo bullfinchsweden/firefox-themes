@@ -15,8 +15,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Calamity](https://addons.mozilla.org/sv-SE/firefox/addon/calamity-dark-theme/)
 
-* [Castlevania](https://addons.mozilla.org/sv-SE/firefox/addon/castlevania-dark-theme/)
-
 * [Catppuccin Frappé](https://addons.mozilla.org/sv-SE/firefox/addon/catppuccin-frappe-theme/)
 
 * [Catppuccin Macchiato](https://addons.mozilla.org/sv-SE/firefox/addon/catppuccin-macchiato-theme/)
