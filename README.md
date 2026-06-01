@@ -23,8 +23,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Catppuccin Mocha](https://addons.mozilla.org/sv-SE/firefox/addon/catppuccin-mocha-dark-theme/)
 
-* [Chocolate](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
-
 * [Creamy Coffee](https://addons.mozilla.org/sv-SE/firefox/addon/creamy-coffee-theme/)
 
 * [Dracula](https://addons.mozilla.org/sv-SE/firefox/addon/dracula-theme-firefox/)
