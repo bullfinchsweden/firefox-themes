@@ -119,6 +119,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Tokyo Night](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/)
 
+* [Tokyo Night Storm](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-storm-dark-theme/)
+
 * [Valhalla](https://addons.mozilla.org/sv-SE/firefox/addon/valhalla-dark-theme/)
 
 * [Valhalla Colorful](https://addons.mozilla.org/sv-SE/firefox/addon/valhalla-colorful-dark-theme/)
