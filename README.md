@@ -67,8 +67,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Kanagawa Wave](https://addons.mozilla.org/sv-SE/firefox/addon/kanagawa-wave-dark-theme/)
 
-* [Matcha](https://addons.mozilla.org/sv-SE/firefox/addon/matcha-dark-theme/)
-
 * [Midnight City](https://addons.mozilla.org/sv-SE/firefox/addon/midnight-city-dark-theme/)
 
 * [Midnight Lavender](https://addons.mozilla.org/sv-SE/firefox/addon/midnight-lavender-dark-theme/)
