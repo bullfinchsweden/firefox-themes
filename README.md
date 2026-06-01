@@ -97,8 +97,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [One Dark Pro Darker](https://addons.mozilla.org/sv-SE/firefox/addon/one-dark-pro-darker-theme/)
 
-* [Oxocarbon](https://addons.mozilla.org/sv-SE/firefox/addon/oxocarbon-dark-theme/)
-
 * [Rosé Pine](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-dark-theme/)
 
 * [Rosé Pine Dawn](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-dawn-light-theme/)
