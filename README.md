@@ -47,8 +47,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Evergreen](https://addons.mozilla.org/sv-SE/firefox/addon/evergreen-theme/)
 
-* [Ghostty](https://addons.mozilla.org/sv-SE/firefox/addon/ghostty-theme/)
-
 * [Gotham](https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/)
 
 * [Gruvbox Dark](https://addons.mozilla.org/sv-SE/firefox/addon/gruvbox-dark-theme-firefox/)
