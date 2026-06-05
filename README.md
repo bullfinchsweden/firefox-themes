@@ -29,6 +29,8 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Eldritch](https://addons.mozilla.org/sv-SE/firefox/addon/eldritch-theme/)
 
+* [Eldritch Abyss](https://addons.mozilla.org/sv-SE/firefox/addon/eldritch-abyss-dark-theme/)
+
 * [Everblush](https://addons.mozilla.org/sv-SE/firefox/addon/everblush-dark-theme/)
 
 * [Everforest Dark Hard](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-dark-hard-theme/)
