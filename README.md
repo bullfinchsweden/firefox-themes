@@ -7,8 +7,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Profile](https://addons.mozilla.org/sv-SE/firefox/user/18694308/)
 
-* [Apprentice](https://addons.mozilla.org/sv-SE/firefox/addon/apprentice-theme/)
-
 * [Ayu Dark](https://addons.mozilla.org/sv-SE/firefox/addon/ayu-dark-theme-firefox/)
 
 * [Ayu Mirage](https://addons.mozilla.org/sv-SE/firefox/addon/ayu-mirage-dark-theme/)
