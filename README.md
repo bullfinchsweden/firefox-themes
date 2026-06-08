@@ -23,8 +23,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Dracula](https://addons.mozilla.org/sv-SE/firefox/addon/dracula-theme-firefox/)
 
-* [Dracula+](https://addons.mozilla.org/sv-SE/firefox/addon/draculaplus-dark-theme/)
-
 * [Eldritch](https://addons.mozilla.org/sv-SE/firefox/addon/eldritch-theme/)
 
 * [Eldritch Abyss](https://addons.mozilla.org/sv-SE/firefox/addon/eldritch-abyss-dark-theme/)
@@ -82,8 +80,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [Night Owl](https://addons.mozilla.org/sv-SE/firefox/addon/night-owl-dark-theme/)
 
 * [Nord](https://addons.mozilla.org/sv-SE/firefox/addon/nord-dark-theme-firefox/)
-
-* [Nord Hard](https://addons.mozilla.org/sv-SE/firefox/addon/nord-hard-theme/)
 
 * [Nord Light](https://addons.mozilla.org/sv-SE/firefox/addon/nord-light-theme/)
 
