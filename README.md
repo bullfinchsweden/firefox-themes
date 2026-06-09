@@ -39,8 +39,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Everforest Light Soft](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-light-soft-theme/)
 
-* [Evergreen](https://addons.mozilla.org/sv-SE/firefox/addon/evergreen-theme/)
-
 * [Gotham](https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/)
 
 * [Gruvbox Dark](https://addons.mozilla.org/sv-SE/firefox/addon/gruvbox-dark-theme-firefox/)
