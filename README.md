@@ -39,8 +39,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Everforest Light Soft](https://addons.mozilla.org/sv-SE/firefox/addon/everforest-light-soft-theme/)
 
-* [Gotham](https://addons.mozilla.org/sv-SE/firefox/addon/gotham-dark-theme/)
-
 * [Gruvbox Dark](https://addons.mozilla.org/sv-SE/firefox/addon/gruvbox-dark-theme-firefox/)
 
 * [Gruvbox Light](https://addons.mozilla.org/sv-SE/firefox/addon/gruvbox-light-theme/)
@@ -75,8 +73,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Monokai Pro Ristretto](https://addons.mozilla.org/sv-SE/firefox/addon/monokai-pro-ristretto-theme/)
 
-* [Night Owl](https://addons.mozilla.org/sv-SE/firefox/addon/night-owl-dark-theme/)
-
 * [Nord](https://addons.mozilla.org/sv-SE/firefox/addon/nord-dark-theme-firefox/)
 
 * [Nord Light](https://addons.mozilla.org/sv-SE/firefox/addon/nord-light-theme/)
@@ -94,8 +90,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 * [Rosé Pine Moon](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-moon-theme/)
 
 * [Sakura](https://addons.mozilla.org/sv-SE/firefox/addon/sakura-dark-theme-firefox/)
-
-* [SeaShells](https://addons.mozilla.org/sv-SE/firefox/addon/seashells-dark-theme/)
 
 * [Solarized Dark](https://addons.mozilla.org/sv-SE/firefox/addon/solarized-dark-theme-firefox/)
 
