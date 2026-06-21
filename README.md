@@ -3,7 +3,7 @@ All the files for my Firefox browser themes.
 
 Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍🏻
 
-<img src="Firefox.png" width="100%"><br/>
+<img src="Firefox.png"><br/>
 
 * [Profile](https://addons.mozilla.org/sv-SE/firefox/user/18694308/)
 
