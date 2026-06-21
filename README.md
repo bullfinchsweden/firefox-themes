@@ -3,7 +3,9 @@ All the files for my Firefox browser themes.
 
 Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍🏻
 
-<img width="120" height="111" alt="Firefox" src="https://github.com/user-attachments/assets/4aaefa14-830a-4c38-81ff-564ffb0caed1" /><br/>
+<div align="center">
+  <img src="Firefox.png" width="100%">
+</div><br/>
 
 * [Profile](https://addons.mozilla.org/sv-SE/firefox/user/18694308/)
 
