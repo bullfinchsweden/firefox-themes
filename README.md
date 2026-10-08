@@ -89,8 +89,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Rosé Pine Moon](https://addons.mozilla.org/sv-SE/firefox/addon/rose-pine-moon-theme/)
 
-* [Sakura](https://addons.mozilla.org/sv-SE/firefox/addon/sakura-dark-theme-firefox/)
-
 * [Solarized Dark](https://addons.mozilla.org/sv-SE/firefox/addon/solarized-dark-theme-firefox/)
 
 * [Solarized Light](https://addons.mozilla.org/sv-SE/firefox/addon/solarized-light-theme/)
