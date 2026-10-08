@@ -1,7 +1,7 @@
 # Firefox Themes 🦊
 All the files for my Firefox browser themes.
 
-Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍🏻
+Feel free to download, modify and share. You don't have to ask for permission. Enjoy! 👍
 
 <img src="Firefox.jpg" width="768" height="320" /><br/>
 
