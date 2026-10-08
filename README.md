@@ -97,8 +97,6 @@ Feel free to download, modify and share. You don't have to ask for permission. E
 
 * [Spaceduck](https://addons.mozilla.org/sv-SE/firefox/addon/spaceduck-dark-theme/)
 
-* [Squirrelsong](https://addons.mozilla.org/sv-SE/firefox/addon/squirrelsong-theme/)
-
 * [Tokyo Night](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-dark-theme/)
 
 * [Tokyo Night Storm](https://addons.mozilla.org/sv-SE/firefox/addon/tokyo-night-storm-dark-theme/)
